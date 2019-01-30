@@ -1,6 +1,6 @@
 import React from 'react';
  
-const MovieShow = {movies, match} => {
+const MovieShow = ({movies, match}) => {
  
   return (
     <div>
